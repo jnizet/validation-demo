@@ -1,4 +1,8 @@
-This is a classical Angular-CLI based project illustrating my proposed form control validation directive.
+This is a classical Angular-CLI + yarn-based project illustrating my proposed form control validation directive.
+
+To actually build and run it, make sure you have yarn and the Angular CLI installed. Start by installing
+the necessary dependencies by just running `yarn` from the root directory. Then use the Angular CLI commands
+(`ng build`, `ng serve`, etc.)
 
 It contains 3 versions of the same component. All display a `.form-group` containing a required input.
 
